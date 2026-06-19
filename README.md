@@ -12,6 +12,10 @@ The system evaluates job applications based on:
 
 and routes candidates through different hiring stages.
 
+## Workflow Architecture
+
+![Workflow](workflow.png)
+
 ## Workflow
 
 1. Experience Classification Agent
